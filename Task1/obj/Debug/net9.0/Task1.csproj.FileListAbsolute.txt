@@ -1,0 +1,14 @@
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task1\bin\Debug\net9.0\Task1.exe
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task1\bin\Debug\net9.0\Task1.deps.json
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task1\bin\Debug\net9.0\Task1.runtimeconfig.json
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task1\bin\Debug\net9.0\Task1.dll
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task1\bin\Debug\net9.0\Task1.pdb
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task1\obj\Debug\net9.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task1\obj\Debug\net9.0\Task1.AssemblyInfoInputs.cache
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task1\obj\Debug\net9.0\Task1.AssemblyInfo.cs
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task1\obj\Debug\net9.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task1\obj\Debug\net9.0\Task1.dll
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task1\obj\Debug\net9.0\refint\Task1.dll
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task1\obj\Debug\net9.0\Task1.pdb
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task1\obj\Debug\net9.0\Task1.genruntimeconfig.cache
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task1\obj\Debug\net9.0\ref\Task1.dll
