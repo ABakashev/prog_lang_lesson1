@@ -1,4 +1,4 @@
-﻿int i1 = 5;
+﻿/*int i1 = 5;
 int i2 = 6;
 int sum = i1 + i2;
 Console.WriteLine(sum);
@@ -23,4 +23,11 @@ Console.WriteLine(quotient);
 
 d1 = 6;
 double quotient2 = i1 / d1;
-Console.WriteLine(quotient2);
+Console.WriteLine(quotient2);*/
+
+int a = 2;
+double b = 4.2;
+long c = 10245;
+double d = 54.3;
+double result = (a * b) / (c + d);
+Console.WriteLine(result);
