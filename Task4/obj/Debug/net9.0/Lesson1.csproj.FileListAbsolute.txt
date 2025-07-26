@@ -1,0 +1,15 @@
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task4\bin\Debug\net9.0\Lesson1.exe
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task4\bin\Debug\net9.0\Lesson1.deps.json
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task4\bin\Debug\net9.0\Lesson1.runtimeconfig.json
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task4\bin\Debug\net9.0\Lesson1.dll
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task4\bin\Debug\net9.0\Lesson1.pdb
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task4\obj\Debug\net9.0\Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task4\obj\Debug\net9.0\Lesson1.AssemblyInfoInputs.cache
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task4\obj\Debug\net9.0\Lesson1.AssemblyInfo.cs
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task4\obj\Debug\net9.0\Lesson1.csproj.CoreCompileInputs.cache
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task4\obj\Debug\net9.0\Lesson1.sourcelink.json
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task4\obj\Debug\net9.0\Lesson1.dll
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task4\obj\Debug\net9.0\refint\Lesson1.dll
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task4\obj\Debug\net9.0\Lesson1.pdb
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task4\obj\Debug\net9.0\Lesson1.genruntimeconfig.cache
+C:\Users\adamb\OneDrive\Рабочий стол\Тестирование\Programming_Languages\01_CSHARP\Lesson1\Task4\obj\Debug\net9.0\ref\Lesson1.dll
